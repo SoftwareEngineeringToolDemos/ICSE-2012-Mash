@@ -6,7 +6,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [A Video of the Tool](https://www.youtube.com/watch?v=F8r-Ke_GWwg)
 
 In this repository, for MASH you will find:
-:x: Source code (not available)
-:white_check_mark: [The original tool](http://www.lta.disco.unimib.it/tools/mash/doku.php?id=Mash) (available)
+* :x: Source code (not available)
+* :white_check_mark: [The original tool](http://www.lta.disco.unimib.it/tools/mash/doku.php?id=Mash) (available)
 
 This repository was constructed by [Pankti Desai](https://github.com/panktidesai) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
