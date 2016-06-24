@@ -10,6 +10,6 @@ In this repository, for MASH you will find:
 * :x: Binaries of the project (not available)
 * :white_check_mark: [The original tool](http://www.lta.disco.unimib.it/tools/mash/doku.php?id=Mash) (available)
 * :x: Vagrant script to create the Virtual machine containing the tool (not available)
-* :x: Virtual machine containing the tool (not available)
+* :x: Virtual machine containing tool (not available)
 
 This repository was constructed by [Pankti Desai](https://github.com/panktidesai), [Karan Singh Dagar] (https://github.com/KaranDagar) and [Priyadarshini Rajagopal] (https://github.com/PriyadarshiniRajagopal) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
